@@ -2,7 +2,7 @@
 
 ## Installation
 
-    npm install ip2loc
+    $ npm install ip2loc
 
 ## Basic usage
 
