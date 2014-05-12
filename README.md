@@ -1,4 +1,4 @@
-## IP2Loc
+# IP2Loc
 
 Unofficial [IP2Location](http://www.ip2location.com/)  Node.js module
 
@@ -23,7 +23,7 @@ console.log(ip2location.query(<ip>));
 You can get sample database on
 [http://www.ip2location.com/developers/nodejs](http://www.ip2location.com/developers/nodejs)
 
-### License
+## License
 
 The MIT License
 ```
