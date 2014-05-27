@@ -5,7 +5,7 @@
     "name": "Stanislaw Glogowski",
     "email": "stanislaw.glogowski@newobject.pl"
   },
-  "version": "0.1.1",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/stanislaw-glogowski/node-ip2loc.git"
@@ -21,6 +21,6 @@
     "underscore": "~1.6"
   },
   "engines": {
-    "node": ">=0.10.26"
+    "node": ">=0.10.0"
   }
 }
