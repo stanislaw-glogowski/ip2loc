@@ -17,7 +17,7 @@ var ip2loc = new (require('ip2loc'))({
     fakeIps : null // array of fake ips
 });
 
-console.log(ip2location.query(<ip>));
+console.log(ip2loc.query(<ip>));
 ```
 
 You can get sample database on
