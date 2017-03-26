@@ -13,13 +13,13 @@
   "version": "1.0.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/stanislaw-glogowski/node-ip2loc.git"
+    "url": "https://github.com/stanislaw-glogowski/ip2loc.git"
   },
   "bugs": {
-    "url": "https://github.com/stanislaw-glogowski/node-ip2loc/issues"
+    "url": "https://github.com/stanislaw-glogowski/ip2loc/issues"
   },
   "licenses": "MIT",
-  "homepage": "https://github.com/stanislaw-glogowski/node-ip2loc",
+  "homepage": "https://github.com/stanislaw-glogowski/ip2loc",
   "main": "index.js",
   "dependencies": {
     "bignum": "~0.6",
